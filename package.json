@@ -1,13 +1,15 @@
 {
+    "type": "module",
     "name": "gametemplate",
     "version": "1.0.0",
     "description": "",
-    "main": "index.mjs",
+    "main": "index.js",
     "author": "",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
         "firebase": "^6.3.4",
+        "nengi": "github:timetocode/nengi",
         "phaser": "^3.18.1"
     },
     "devDependencies": {

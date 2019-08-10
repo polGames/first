@@ -1,7 +1,7 @@
 'use strict'
 
 import Phaser from 'phaser'
-import { LoginScene, TestScene } from './scenes.mjs';
+import { LoginScene, TestScene } from './scenes.js';
 
 //* the official config with all possible options is seen here: https://photonstorm.github.io/phaser3-docs/Phaser.Types.Core.html#.GameConfig
 //* configuration examples can be seen here: https://rexrainbow.github.io/phaser3-rex-notes/docs/site/game/#configuration

@@ -1,7 +1,7 @@
 var path = require('path');
 
 module.exports = {
-    entry: './src/index.mjs',
+    entry: './src/index.js',
     mode: 'development', //use 'production' for actual production. 'development' has faster compiling for rapid testing
 
     module: {
