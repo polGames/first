@@ -7,7 +7,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "firebase": "^6.3.4",
         "phaser": "^3.18.1"
     },
